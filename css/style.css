@@ -1,0 +1,8 @@
+:root{
+    --colorDelMenu: rgb(19, 80, 234);
+    --letras: cursive;
+}
+body{
+    background: Var(--colorDelMenu);
+    font-family: Var(--letras);
+}
